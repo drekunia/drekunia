@@ -1,4 +1,4 @@
-# Hi, my name is Andre Kurniawan.
+# Hi, my name is Andre.
 ### Most repos here are pet projects.
 ### But they're growing up just like kittens! :smile_cat:
 
