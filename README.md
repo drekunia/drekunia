@@ -1,6 +1,6 @@
 ## Hi, my name is Andre.
 #### Most repos here are pet projects.
-#### But they're growing up just like kittens! :smile_cat:
+#### But they're growing just like kittens! :smile_cat:
 
 <!--
 **andrekurniiawan/andrekurniiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
