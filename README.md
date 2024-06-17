@@ -1,6 +1,4 @@
-## Hi, my name is Andre.
-#### Most repos here are pet projects.
-#### But they're growing just like kittens! :smile_cat:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drekunia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **andrekurniiawan/andrekurniiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
