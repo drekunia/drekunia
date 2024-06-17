@@ -1,5 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drekunia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drekunia)](https://github.com/anuraghazra/github-readme-stats)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=90a76f676223dd470373bce08f472309)](https://gist.github.com/drekunia/90a76f676223dd470373bce08f472309)
 
 <!--
 **andrekurniiawan/andrekurniiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
