@@ -3,7 +3,7 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=drekunia&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=html,css,scss,blade,makefile">
   <img src="https://streak-stats.demolab.com?user=drekunia&theme=transparent&hide_border=true">
 </p>
-<p align="right" style="font-weight: 400; font-size: 11px; font-family: 'Segoe UI', Ubuntu, Sans-Serif; color: #417E87">*the stats are from public repos only</p>
+<p align="right">*the stats are from public repos only</p>
 
 <!--
 **andrekurniiawan/andrekurniiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
