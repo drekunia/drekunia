@@ -4,6 +4,8 @@
   <img src="https://streak-stats.demolab.com?user=drekunia&theme=transparent&hide_border=true">
 </p>
 
+<p align="right">*the stats is from public repo only</p>
+
 <!--
 **andrekurniiawan/andrekurniiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
