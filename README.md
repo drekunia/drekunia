@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 
-```elixir
+```rust
 From: 26 September 2025 - To: 27 September 2025
 
 Total Time: 9 mins
