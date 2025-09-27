@@ -1,6 +1,6 @@
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=drekunia&custom_title=drekunia%27s+GitHub+Stats&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&theme=transparent&hide_border=true">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=drekunia&layout=compact&hide_border=true&theme=transparent&langs_count=8">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=drekunia&custom_title=drekunia%27s+GitHub+Stats&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&hide=contribs">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=drekunia&layout=compact&hide_border=true&theme=transparent&langs_count=6">
 </p>
 
 <!--START_SECTION:waka-->
