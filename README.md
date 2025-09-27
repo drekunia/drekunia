@@ -9,7 +9,7 @@
  > 
 > 🏆 155 Contributions in the Year 2025
  > 
-> 💼 Opted to Hire
+> 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
  > 
@@ -67,5 +67,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drekunia/drekunia/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 20:12:59 UTC
+ Last Updated on 27/09/2025 20:18:40 UTC
 <!--END_SECTION:waka-->
