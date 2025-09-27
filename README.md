@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
 
 **🐱 My GitHub Data** 
 
@@ -9,7 +9,7 @@
  > 
 > 🏆 155 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 4 Public Repositories 
  > 
@@ -67,5 +67,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drekunia/drekunia/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 20:18:40 UTC
+ Last Updated on 27/09/2025 20:22:09 UTC
 <!--END_SECTION:waka-->
