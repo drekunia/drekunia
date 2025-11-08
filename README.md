@@ -1,9 +1,9 @@
-<h2>Stats from public repositories</h2>
+<h3>Stats from public repositories</h3>
 <p align="center">
   <a href="https://drekunia.github.io"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=drekunia&hide_title=true&show_icons=true&rank_icon=github&count_private=false&include_all_commits=true&theme=transparent&hide_border=true&hide=contribs"></a>
   <a href="https://drekunia.github.io"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=drekunia&hide_title=true&layout=compact&theme=transparent&hide_border=true&langs_count=6&size_weight=0.5&count_weight=0.5&hide=yaml,json,toml,html,css,scss,markdown,blade,makefile"></a>
 </p>
-<h2>Stats from Wakatime</h2>
+<h3>Stats from Wakatime</h3>
 <!--START_SECTION:waka-->
 
 ```rust
