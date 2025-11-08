@@ -26,10 +26,10 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
           CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
+          LANG_COUNT: 20 # optional
           SHOW_TIME: false # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: true # optional
+          # SHOW_TOTAL: true # optional
+          # SHOW_MASKED_TIME: true # optional
           # STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: Binary YAML JSON TOML HTML CSS SCSS Markdown Blade Makefile # optional
           ### commit
