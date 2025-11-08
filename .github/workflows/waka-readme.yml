@@ -26,12 +26,12 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
           CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
+          LANG_COUNT: 5 # optional
+          SHOW_TIME: false # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: true # optional
           # STOP_AT_OTHER: true # optional
-          # IGNORED_LANGUAGES: Binary YAML JSON TOML HTML CSS SCSS Blade Makefile # optional
+          IGNORED_LANGUAGES: Binary YAML JSON TOML HTML CSS SCSS Markdown Blade Makefile # optional
           ### commit
           # COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           # TARGET_BRANCH: main # optional
