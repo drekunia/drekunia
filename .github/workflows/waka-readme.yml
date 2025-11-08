@@ -31,7 +31,7 @@ jobs:
           # SHOW_TOTAL: true # optional
           # SHOW_MASKED_TIME: true # optional
           # STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: Binary YAML JSON TOML HTML CSS SCSS Markdown Blade Makefile gitconfig gitignore UnityYaml # optional
+          IGNORED_LANGUAGES: Binary YAML JSON TOML HTML CSS SCSS Markdown Blade Makefile UnityYaml conf gitconfig "Git Config" gitignore "GitIgnore file" # optional
           ### commit
           # COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           # TARGET_BRANCH: main # optional
