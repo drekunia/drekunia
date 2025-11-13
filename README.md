@@ -20,4 +20,4 @@ Vim Script                       ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-<p align="right">Some of my repositories are moved to <a href="https://codeberg.org/drekunia" target="_blank" rel="noopener noreferrer">Codeberg</a></p>
+<p align="right">*some of my repositories are moved to <a href="https://codeberg.org/drekunia">Codeberg</a></p>
