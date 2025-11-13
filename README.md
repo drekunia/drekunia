@@ -1,4 +1,3 @@
-Some of my repositories are moved to [Codeberg](https://codeberg.org/drekunia)
 <!-- <h4>GitHub stats (public repositories)</h4>
 <p align="center">
   <a href="https://drekunia.github.io"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=drekunia&hide_title=true&show_icons=true&rank_icon=github&count_private=false&include_all_commits=true&theme=transparent&hide_border=true&hide=contribs"></a>
@@ -21,3 +20,4 @@ Vim Script                       ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+<p align="right">Some of my repositories are moved to <a href="https://codeberg.org/drekunia">Codeberg</a></p>
