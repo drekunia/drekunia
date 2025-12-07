@@ -38,6 +38,6 @@ jobs:
           # TARGET_PATH: README.md # optional
           # COMMITTER_NAME: GitHubActionBot # optional
           # COMMITTER_EMAIL: action-bot@github.com # optional
-          # AUTHOR_NAME: Andre Kurniawan # optional
-          # AUTHOR_EMAIL: drekunia@gmail.com # optional
+          AUTHOR_NAME: GitHubActionBot # optional
+          AUTHOR_EMAIL: action-bot@github.com # optional
           # you can populate email-id with secrets instead
