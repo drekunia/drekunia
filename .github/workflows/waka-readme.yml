@@ -30,8 +30,9 @@ jobs:
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: true # optional
-          # STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: Binary YAML JSON TOML Other UnityYaml jsonc conf gitconfig "Git Config" gitignore "git ignore" "GitIgnore file" Text LICENSE INI # optional
+          STOP_AT_OTHER: true # optional
+          IGNORED_LANGUAGES: Binary YAML JSON TOML # optional
+          # IGNORED_LANGUAGES: Binary YAML JSON TOML Other UnityYaml jsonc conf gitconfig "Git Config" gitignore "git ignore" "GitIgnore file" Text LICENSE INI
           ### commit
           # COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           # TARGET_BRANCH: main # optional
