@@ -1,1 +1,1 @@
-Moved to <a href="https://codeberg.org/drekunia">Codeberg</a> (mostly) ╮(╯_╰)╭
+Moved to <a href="https://codeberg.org/drekunia">Codeberg</a> ╮(╯_╰)╭
