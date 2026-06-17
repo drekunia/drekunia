@@ -1,1 +1,1 @@
-Moved to <a href="https://codeberg.org/drekunia">Codeberg</a>, mostly, I guess. ╮(╯_╰)╭
+i use both <a href="https://codeberg.org/drekunia">codeberg</a> and github ╮(╯_╰)╭
