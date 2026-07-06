@@ -1,1 +1,1 @@
-<a href="https://drekunia.github.io">drekunia.github.io</a> ╮(╯_╰)╭
+<a href="https://drekunia.github.io">drekunia.github.io</a>
